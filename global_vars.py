@@ -1,0 +1,5 @@
+HOST_NAME = "localhost"
+DATEBASE_NAME = "GET-VsT-Users"
+USERNAME = "postgres"
+PASSWORD = "mk11scorpion"
+PORT_NUM = "5432"

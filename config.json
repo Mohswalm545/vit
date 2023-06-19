@@ -1,0 +1,7 @@
+{
+  "host": "vst.cvh1wrr7odxi.eu-central-1.rds.amazonaws.com",
+  "port_num": "5432",
+  "database": "vst_app_db",
+  "username": "postgres",
+  "password": "Mohs200145"
+}
